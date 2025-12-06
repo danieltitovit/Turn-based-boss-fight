@@ -306,9 +306,8 @@ print('Sigga, the fiercest one: "Let us have some fun yeah..?" ')
 #
 # true fight begins
 print(' ! ! ! ')
-# put the uhhhhhh random scenario here lol
+# scenarios begin
 bfContinue()
 bossChallenges()
 
-# finish soldier and berseker class in bossChallenges and uhhh games done ig
-# afterwards finish tutorial and add credits (me daniel titov lololoolol) for extra work
+# 
